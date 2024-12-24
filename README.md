@@ -7,19 +7,16 @@ There are no popups or notifications, so you can mine seamlessly in the backgrou
 
 
 🔥 Supported Coins:
+
 CPU Mining
-
-
 🪙 Monero
 🪙 Ravencoin
+
 GPU (2 - 4GB VRAM) Mining
-
-
 🪙 Ravencoin
 🪙 Ethereum Classic
+
 GPU (4GB - Unlimited VRAM) Mining
-
-
 🪙 Ethereum
 🪙 Ergo
 🪙 Ravencoin
@@ -46,6 +43,7 @@ Remotely control your systems and start mining!
 
 
 💡 Why Khaelita Silent Miner?
+
 Efficient and Safe: Utilizes your system's resources in the most efficient way, mining without interrupting your experience.
 Legal Warnings: Ensures compliance with ethical and legal usage boundaries through clear warnings, providing a hassle-free experience.
 Quick Start: Easy installation and user-friendly interface to start mining immediately!
