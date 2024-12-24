@@ -15,11 +15,13 @@ CPU Mining
 🪙 Ravencoin
 
 GPU (2 - 4GB VRAM) Mining
+
 🪙 Ravencoin
 
 🪙 Ethereum Classic
 
 GPU (4GB - Unlimited VRAM) Mining
+
 🪙 Ethereum
 
 🪙 Ergo
