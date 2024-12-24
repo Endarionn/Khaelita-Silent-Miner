@@ -1,5 +1,6 @@
-Khaelita Silent Miner
 🚀 Remote Control, Maximum Profit!
+
+
 Khaelita Silent Miner is a powerful software that allows you to remotely control your mining systems, performing cryptocurrency mining silently and without disturbing the user. By utilizing your system's resources efficiently, it helps you achieve high profits while ensuring there is no performance loss.
 
 There are no popups or notifications, so you can mine seamlessly in the background without any interruptions. With Khaelita Silent Miner, mining operations run completely silently and without disturbing the user.
