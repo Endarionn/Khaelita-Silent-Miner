@@ -66,4 +66,5 @@ Khaelita Silent Miner is a continuously updated and improved software. A 10% dev
 
 🔗 Contact & Support
 GitHub: Khaelita Silent Miner Repo
+
 Email: yagiz.atalay.dev@gmail.com
